@@ -1,0 +1,1 @@
+The CGPA Calculator in C++ is a program designed to compute a student’s Cumulative Grade Point Average (CGPA). By taking user input on various course grades and credits, the program determines the overall CGPA. Additionally, it offers insights into individual course grades, calculates total credits, grade points, semester GPA, and finally presents the CGPA.
